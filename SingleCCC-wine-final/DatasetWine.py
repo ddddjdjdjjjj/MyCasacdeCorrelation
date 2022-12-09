@@ -1,5 +1,4 @@
 from torch.utils.data import Dataset
-import torchvision
 import numpy as np
 import torch
 
