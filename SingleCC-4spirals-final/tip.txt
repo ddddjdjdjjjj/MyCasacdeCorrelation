@@ -1,0 +1,6 @@
+单目标CascadeCorrelation 4sp最终版
+
+
+jde 5000 固定bias+1 low-1 up 1二分    18 19
+
+jde 5000 非固定bias     25 26 27 28
